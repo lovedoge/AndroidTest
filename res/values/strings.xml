@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+    <string name="text_view">这是一个Demo</string>
+    <string name="button_toast">Toast按钮</string>
+    <string name="toast_string">这是一个Toast按钮</string>
+    <string name="button_ImageView">ImageView按钮</string>
+    <string name="button_ProgressBar">ProgressBar按钮</string>
+    <string name="button_AlertDialog">AlertDialog按钮</string>
+    <string name="edit_text">请输入文字</string>
+    <string name="send">发送</string>
+</resources>
